@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Safati.Program" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Safati.Animals" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAgAAAAAAQAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Animals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Safati.Predators" Collapsed="true">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Predators\Predators.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Safati.Cats" Collapsed="true">
+    <Position X="8" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Predators\Cats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Safati.BigCats" Collapsed="true">
+    <Position X="8" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Predators\BigCats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Safati.Lynx" Collapsed="true">
+    <Position X="8" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Predators\Lynx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Safati.Omnivores" Collapsed="true">
+    <Position X="10.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Omnivores\Omnivores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Safati.Bears" Collapsed="true">
+    <Position X="10.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Omnivores\Bears.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Safati.BrownBear" Collapsed="true">
+    <Position X="10.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Omnivores\BrownBear.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Safati.Herbivores" Collapsed="true">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Herbivores\Herbivores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Safati.Elephant" Collapsed="true">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Herbivores\Elephant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
